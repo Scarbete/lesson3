@@ -12,6 +12,8 @@ class Circle: Geometry {
         print("Укажите радиус!")
         let radius = readLine()
         
+        print("hello!")
+
         let r = Float(radius!)
         
         let square = 3.14 * r! * r!
